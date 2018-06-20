@@ -11,7 +11,7 @@
     "picture": "MANGO.jpeg"
   },
   {
-    "id": 2,
+    "id": 5,
     "name": "檸檬塔-6吋",
 	"cate": "塔皮類",
     "pic": "lemon.jpeg",
@@ -22,7 +22,7 @@
     "picture": "lemon.jpeg"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "蜂蜜威士忌乳酪-6吋",
     "pic": "DALICAKE.jpeg",
 	"cate": "蛋糕類",
@@ -33,7 +33,7 @@
     "picture": "DALICAKE.jpeg"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "黃澄澄檸檬蛋糕 6吋",
     "pic": "yellowlemon.jpeg",
 	"cate": "蛋糕類",
@@ -44,7 +44,7 @@
     "picture": "yellowlemon.jpeg"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "生巧克力塔-6/8吋",
     "pic": "chocolate.jpeg",
 	"cate": "塔皮類",
@@ -55,7 +55,7 @@
     "picture": "chocolate.jpeg"
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "小山園生抹茶塔-6/8吋",
     "pic": "matcha.jpeg",
 	"cate": "塔皮類",
@@ -66,7 +66,7 @@
     "picture": "matcha.jpeg"
   },
   {
-    "id": 7,
+    "id": 4,
     "name": "香濃起司生巧克力蛋糕-6吋",
     "pic": "chocolate1.jpeg",
 	"cate": "蛋糕類",
