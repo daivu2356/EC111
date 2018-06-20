@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "芒果盛宴-6吋",
     "pic": "MANGO.jpeg",
     "價格":"780",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "檸檬塔-6吋",
     "pic": "lemon.jpeg",
     "價格":"450",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "蜂蜜威士忌乳酪-6吋",
     "pic": "DALICAKE.jpeg",
     "價格":"750",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "黃澄澄檸檬蛋糕 6吋",
     "pic": "yellowlemon.jpeg",
     "價格":"380",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "生巧克力塔-6/8吋",
     "pic": "chocolate.jpeg",
     "價格":"520",
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "☛商品說明Description",
+    "商品說明Description",
     "商品名稱": "小山園生抹茶塔-6/8吋",
     "pic": "matcha.jpeg",
     "價格":"500",
@@ -89,6 +89,5 @@
     "賞味期限": "冷藏7℃ 3天內食用完畢/冷凍-18℃ 保存7天",
     "電話": "06-2202377",
     "picture": "chocolate1.jpeg"
-  },
-
+  }
 ]
